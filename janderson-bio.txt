@@ -8,5 +8,7 @@ Start: May 1, 2017
  - Microsoft C#.Net
  - Git & GitHub.
  - Java
+ - mySQL
+ 
  
  
